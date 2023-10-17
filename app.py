@@ -457,7 +457,7 @@ def texto_genetico(num_estaciones, demanda_estaciones,
     st.write(f'La demanda que hay es de: {sum(demanda_estaciones)} bicicletas')
     st.write(f'\nPero la cantidad de bicicletas es de: {limite_bicicletas}')
     st.write("\nMejor asignación de bicicletas en estaciones:", asignacion_df)
-    st.write(f"\nDe esa manera, solo queda una deficiencia en la demanda de: {sum(demanda_estaciones) - sum(mejor_asignacion)} de bicicletas")
+    st.write(f"\nDe esa manera, solo queda una deficiencia en la demanda de: {sum(demanda_estaciones) - sum(mejor_asignacion)} bicicletas")
 
     
     return
