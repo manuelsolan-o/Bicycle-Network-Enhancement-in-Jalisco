@@ -22,3 +22,25 @@ In reality, this problem is exceptionally intricate, demanding extensive efforts
 
 ## App
 
+
+## Installation
+
+### Step 0)
+
+Clone this repository
+
+### Step 1)
+
+To install the libraries needed to run the app, we need to write the following in the terminal:
+
+    pip install -r requirements.txt
+
+OR
+
+    pip3 install -r requirements.txt
+
+### Step 2)
+Run the app.py file from the directory where the repository has been cloned
+
+    streamlit run app.py
+
