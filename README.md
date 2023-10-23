@@ -22,6 +22,9 @@ In reality, this problem is exceptionally intricate, demanding extensive efforts
 
 ## App
 
+<p align="center">
+<img src="images/mibiciapp.gif" alt="gifapp">
+</p>
 
 ## Installation
 
